@@ -13,8 +13,8 @@ Here are some ideas to get you started:-->
 
 
 
-- <a href="mailto:rawat.raghav3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rawat.raghav3@gmail.com-blue?style=flat-square&logo=gmail">Personal</a>
-- <a href="mailto:raghavrawat.ec18@rvce.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-raghavrawat.ec18@rvce.edu.in-blue?style=flat-square&logo=gmail"></a>
+- <a href="mailto:rawat.raghav3@gmail.com"><img alt="Personal Email" src="https://img.shields.io/badge/Email-rawat.raghav3@gmail.com-blue?style=flat-square&logo=gmail"></a>
+- <a href="mailto:raghavrawat.ec18@rvce.edu.in"><img alt="Institutional Email" src="https://img.shields.io/badge/Email-raghavrawat.ec18@rvce.edu.in-blue?style=flat-square&logo=gmail"></a>
 - <a href="https://www.linkedin.com/in/raghav-rawat-b25403181/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raghav%20Rawat-blue?style=flat-square&logo=linkedin"></a><br>
 
 <!-- - 😄 Pronouns: ...
