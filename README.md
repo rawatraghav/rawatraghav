@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m pursuing Electronics and Communication Engineering at RV College of Engineering.
+- 🔭 I’m pursuing M.S. Computer Engineering at New York University.
 - 🖼  Developing the web with Django, Javascript, HTML and CSS.
-- 🌱 I’m currently learning and open for collaboration in Deep Learning, Artificial Intelligence and Quantum Computing.
+- 🌱 I’m currently learning and open for collaboration in Deep Learning, Full Stack development and Quantum Computing.
+- - 🤔 I’m looking for help with Fintech Projects, Time-series forecasting.
 <!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 
 
