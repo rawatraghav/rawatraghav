@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m pursuing M.S. Computer Engineering at New York University.
-- 🖼  Developing the web with Django, Javascript, HTML and CSS.
+- 🖼  Developing the web with React, Next & Django.
 - 🌱 I’m currently learning and open for collaboration in Deep Learning, Full Stack development and Quantum Computing.
 - - 🤔 I’m looking for help with Fintech Projects, Time-series forecasting.
 <!-- - 👯 I’m looking to collaborate on ...
