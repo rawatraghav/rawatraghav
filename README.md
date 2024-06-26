@@ -16,9 +16,8 @@ Here are some ideas to get you started:-->
 
  <a href="mailto:rawat.raghav3w@gmail.com"><img alt="Personal Email" src="https://img.shields.io/badge/Email-rawat.raghav3w@gmail.com-blue?style=flat-square&logo=gmail"></a>        <a href="mailto:rr3418@nyu.edu"><img alt="Institutional Email" src="https://img.shields.io/badge/Email-rr3418@nyu.edu-blue?style=flat-square&logo=gmail"></a>   <a href="https://www.linkedin.com/in/raghav-rawat/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raghav%20Rawat-blue?style=flat-square&logo=linkedin"></a><br>
 
-[![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawatraghav)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawatraghav)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatraghav&layout=compact&theme=buefy&hide_border=true" /></a>
+| ------------- |
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
